@@ -1,6 +1,6 @@
 """Loan tape ingestion with row-level validation.
 
-Real servicer tapes are messy ("$12,500,000", "4.5%", blank cells). We normalise what we safely
+Real servicer tapes are messy ("$12,500,000", "4.5%", blank cells). We normalize what we safely
 can and reject the rest with a row/field/message error instead of failing the whole file.
 """
 

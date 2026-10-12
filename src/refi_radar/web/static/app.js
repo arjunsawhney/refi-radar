@@ -402,8 +402,6 @@ async function init() {
       api("/api/contacts"),
     ]);
     state.windowEndLabel = monthYear(health.window_end);
-    $("meta-asof").textContent = `As of ${monthYear(health.as_of)}`;
-    $("meta-source").textContent = `${health.loans_loaded} loans loaded`;
     $("tip-window").dataset.tip =
       `Loans that must be repaid between ${monthYear(health.as_of)} and ${state.windowEndLabel} ` +
       `(the next ${health.horizon_months} months), plus loans already past due. Later maturities are left out.`;

@@ -1,4 +1,4 @@
-"""HTTP adapter over the engine. Holds no business logic: validate, delegate, serialise."""
+"""HTTP adapter over the engine. Holds no business logic: validate, delegate, serialize."""
 
 from __future__ import annotations
 

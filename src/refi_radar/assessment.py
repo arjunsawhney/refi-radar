@@ -168,7 +168,7 @@ def _talking_points(
     else:
         timing = (
             f"The {existing} on {loan.property_name} comes due in {due} ({months_to_maturity} months away). "
-            "Refinancing usually takes 3-6 months, so the owner should start now."
+            "Refinancing usually takes 3–6 months, so the owner should start now."
         )
     market = (
         f"The property is worth about {_money(value)} today. A new loan would be at most {_money(max_loan)}, "
