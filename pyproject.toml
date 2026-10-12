@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "refi-radar"
+version = "0.1.0"
+description = "CRE debt maturity-wall monitor: stress-tests loans for refinance risk and ranks broker opportunities."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "httpx>=0.27",
+]
+
+[project.scripts]
+refi-radar = "refi_radar.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+refi_radar = ["config/*.toml", "web/static/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+filterwarnings = [
+    # Raised by FastAPI's TestClient import; not actionable from this project.
+    "ignore:Using `httpx` with `starlette.testclient` is deprecated:UserWarning",
+]
