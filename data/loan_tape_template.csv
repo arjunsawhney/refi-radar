@@ -1,0 +1,3 @@
+loan_id,property_name,property_type,market,sponsor,lender_type,origination_date,maturity_date,original_balance,note_rate,amortization_years,original_value,current_noi,occupancy
+EX-001,Example Office Tower,office,"Chicago, IL",Example Capital,CMBS,2017-06-01,2027-06-01,"$85,000,000",4.10%,0,"$140,000,000","$6,900,000",78%
+EX-002,Example Apartments,multifamily,"Dallas, TX",Example Capital,Agency,2019-03-01,2029-03-01,42000000,0.0395,30,60000000,3300000,0.94

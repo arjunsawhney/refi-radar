@@ -1,0 +1,251 @@
+loan_id,property_name,property_type,market,sponsor,lender_type,origination_date,maturity_date,original_balance,note_rate,amortization_years,original_value,current_noi,occupancy
+NMK-00001,Union Logistics Center,industrial,"New York, NY",Halcyon Street Partners,CMBS,2022-10-01,2027-10-01,55340000.00,0.04634,0,80540000.00,4911535.13,0.8878
+NMK-00002,Willow Creek Distribution Park,industrial,"Dallas, TX",Silverline Holdings,Bank,2020-06-01,2027-06-01,8000000.00,0.02854,25,12220000.00,843469.21,0.9940
+NMK-00003,Larkspur Corporate Center,office,"Phoenix, AZ",Brightwater Asset Mgmt,CMBS,2016-10-01,2026-10-01,118790000.00,0.04008,0,177950000.00,5189894.69,0.6777
+NMK-00004,Cedar Ridge Lofts,multifamily,"Phoenix, AZ",Silverline Holdings,Bank,2022-11-01,2027-11-01,26620000.00,0.05013,25,43710000.00,2128358.31,0.9403
+NMK-00005,Willow Creek Logistics Center,industrial,"Washington, DC",Northbeam Capital,Life Co,2019-08-01,2026-08-01,21610000.00,0.03620,0,44050000.00,3600913.26,0.9727
+NMK-00006,Summit Plaza,office,"Boston, MA",Redfern Holdings,CMBS,2019-06-01,2029-06-01,144260000.00,0.03928,0,219530000.00,9782827.79,0.7954
+NMK-00007,Meridian Suites,hotel,"Miami, FL",Brightwater Asset Mgmt,CMBS,2022-06-01,2027-06-01,13280000.00,0.05806,0,22390000.00,1364651.86,0.8191
+NMK-00008,Highland Plaza,office,"Nashville, TN",Northbeam Capital,Debt Fund,2023-04-01,2026-04-01,30210000.00,0.07609,0,41190000.00,1956184.35,0.9061
+NMK-00009,Cedar Ridge Shopping Center,retail,"New York, NY",Brightwater Asset Mgmt,CMBS,2024-01-01,2029-01-01,37030000.00,0.06405,0,54380000.00,3379169.91,0.8551
+NMK-00010,Meridian Residences,multifamily,"Dallas, TX",Quarry Lane Capital,Debt Fund,2024-12-01,2027-12-01,142370000.00,0.07135,0,215340000.00,11472043.43,0.9228
+NMK-00011,Ironwood Office Park,office,"Nashville, TN",Cobalt Ridge Partners,CMBS,2019-08-01,2029-08-01,102490000.00,0.04379,30,154630000.00,8262707.70,0.6944
+NMK-00012,Lakeside Lofts,multifamily,"San Francisco, CA",Halcyon Street Partners,Agency,2022-05-01,2029-05-01,66900000.00,0.04553,0,109890000.00,4434567.84,0.9014
+NMK-00013,Pioneer Logistics Center,industrial,"Los Angeles, CA",Northbeam Capital,CMBS,2016-12-01,2026-12-01,22300000.00,0.03446,0,37720000.00,2758131.91,0.9164
+NMK-00014,Meridian Office Park,office,"Los Angeles, CA",Northbeam Capital,Debt Fund,2024-08-01,2027-08-01,43020000.00,0.07514,0,62690000.00,3294390.32,0.8156
+NMK-00015,Gateway Office Park,office,"Seattle, WA",Tidewater Equities,CMBS,2021-10-01,2026-10-01,22410000.00,0.03300,30,35680000.00,2082603.73,0.8290
+NMK-00016,Pioneer Distribution Park,industrial,"Chicago, IL",Northbeam Capital,Life Co,2019-12-01,2029-12-01,98330000.00,0.03393,30,183150000.00,12942628.06,0.9418
+NMK-00017,Copper Hill Plaza,office,"Chicago, IL",Brightwater Asset Mgmt,Debt Fund,2024-02-01,2027-02-01,24060000.00,0.07976,0,33080000.00,1689742.48,0.6446
+NMK-00018,Northgate Distribution Park,industrial,"Denver, CO",Cobalt Ridge Partners,Bank,2021-01-01,2028-01-01,14130000.00,0.03223,25,23490000.00,1352101.39,0.8613
+NMK-00019,Liberty Commerce Center,industrial,"Seattle, WA",Brightwater Asset Mgmt,Bank,2021-10-01,2026-10-01,10370000.00,0.03423,25,17420000.00,1068003.26,0.9977
+NMK-00020,Pioneer Shopping Center,retail,"Dallas, TX",Kestrel Property Group,Bank,2022-12-01,2029-12-01,63010000.00,0.05559,25,107830000.00,6642686.57,0.8479
+NMK-00021,Willow Creek Residences,multifamily,"Boston, MA",Lantern Real Estate,Agency,2020-02-01,2030-02-01,117310000.00,0.02500,0,193070000.00,8085463.90,0.9467
+NMK-00022,Copper Hill Plaza,office,"Charlotte, NC",Lantern Real Estate,Bank,2021-04-01,2026-04-01,143610000.00,0.03345,25,231280000.00,9188193.42,0.6325
+NMK-00023,Summit Plaza,office,"Houston, TX",Lantern Real Estate,Debt Fund,2021-06-01,2026-06-01,19850000.00,0.04826,0,26420000.00,1457191.48,0.8844
+NMK-00024,Riverside Flats,multifamily,"Chicago, IL",Pinecrest Realty,Bank,2021-02-01,2028-02-01,85830000.00,0.03481,25,146790000.00,7309595.07,0.9000
+NMK-00025,Granite Town Center,retail,"Denver, CO",Northbeam Capital,Bank,2022-12-01,2027-12-01,17250000.00,0.05134,25,29420000.00,2143866.29,0.8196
+NMK-00026,Granite Hotel,hotel,"Miami, FL",Brightwater Asset Mgmt,CMBS,2022-09-01,2027-09-01,70870000.00,0.05565,0,114740000.00,9263751.15,0.6256
+NMK-00027,Northgate Lofts,multifamily,"Charlotte, NC",Oakhaven Investors,Agency,2022-02-01,2029-02-01,63140000.00,0.04419,30,97210000.00,4066677.54,0.9162
+NMK-00028,Harbor Point Lofts,multifamily,"Seattle, WA",Silverline Holdings,Agency,2018-08-01,2028-08-01,54680000.00,0.04506,30,84750000.00,7230144.34,0.9187
+NMK-00029,Granite Commerce Center,industrial,"Denver, CO",Cobalt Ridge Partners,Life Co,2018-11-01,2028-11-01,26580000.00,0.04365,0,45430000.00,3273653.48,0.9746
+NMK-00030,Liberty Town Center,retail,"Atlanta, GA",Redfern Holdings,Life Co,2020-07-01,2027-07-01,77790000.00,0.02588,30,143610000.00,8264173.37,0.9184
+NMK-00031,Liberty Tower,office,"Washington, DC",Cobalt Ridge Partners,CMBS,2024-12-01,2029-12-01,148150000.00,0.06436,30,220000000.00,13340242.03,0.7569
+NMK-00032,Larkspur Town Center,retail,"Houston, TX",Redfern Holdings,Life Co,2019-05-01,2029-05-01,29320000.00,0.04270,30,52550000.00,5157443.11,0.9465
+NMK-00033,Willow Creek Tower,office,"Dallas, TX",Lantern Real Estate,Life Co,2019-10-01,2029-10-01,53630000.00,0.03959,0,109180000.00,7006324.80,0.6894
+NMK-00034,Copper Hill Commerce Center,industrial,"New York, NY",Brightwater Asset Mgmt,Life Co,2016-08-01,2026-08-01,18590000.00,0.03245,30,38650000.00,3440567.37,0.9133
+NMK-00035,Crescent Lofts,multifamily,"Charlotte, NC",Pinecrest Realty,Agency,2020-06-01,2030-06-01,34720000.00,0.02612,30,48760000.00,2305878.32,0.8826
+NMK-00036,Copper Hill Tower,office,"San Francisco, CA",Quarry Lane Capital,Life Co,2021-07-01,2028-07-01,150950000.00,0.03404,30,284740000.00,14029716.14,0.7486
+NMK-00037,Meridian Town Center,retail,"New York, NY",Redfern Holdings,CMBS,2017-09-01,2027-09-01,17100000.00,0.04396,0,24940000.00,1706967.71,0.8917
+NMK-00038,Harbor Point Resort,hotel,"Dallas, TX",Silverline Holdings,CMBS,2024-11-01,2029-11-01,84680000.00,0.07169,0,122030000.00,10749679.08,0.6103
+NMK-00039,Northgate Logistics Center,industrial,"New York, NY",Kestrel Property Group,Bank,2020-06-01,2027-06-01,12100000.00,0.02920,25,19240000.00,1234235.11,0.9406
+NMK-00040,Stonebridge Resort,hotel,"Los Angeles, CA",Brightwater Asset Mgmt,CMBS,2025-04-01,2030-04-01,53300000.00,0.06846,30,90000000.00,6764500.20,0.7678
+NMK-00041,Liberty Plaza,office,"Charlotte, NC",Lantern Real Estate,Bank,2023-04-01,2028-04-01,131130000.00,0.06104,25,199620000.00,13774391.97,0.8401
+NMK-00042,Meridian Suites,hotel,"Nashville, TN",Silverline Holdings,CMBS,2019-04-01,2029-04-01,51230000.00,0.04879,0,82800000.00,10476606.24,0.7601
+NMK-00043,Gateway Commerce Center,industrial,"New York, NY",Halcyon Street Partners,Life Co,2021-02-01,2028-02-01,23800000.00,0.02997,30,47300000.00,2706008.41,0.9927
+NMK-00044,Crescent Flats,multifamily,"Washington, DC",Kestrel Property Group,Bank,2023-12-01,2028-12-01,38980000.00,0.05914,0,59680000.00,3300808.30,0.9398
+NMK-00045,Willow Creek Tower,office,"Houston, TX",Silverline Holdings,Bank,2021-03-01,2028-03-01,31580000.00,0.03898,25,51860000.00,2467253.52,0.6849
+NMK-00046,Elm Street Plaza,office,"Boston, MA",Northbeam Capital,Life Co,2019-03-01,2029-03-01,22490000.00,0.04088,30,44610000.00,2976796.55,0.9123
+NMK-00047,Foundry Tower,office,"San Francisco, CA",Tidewater Equities,Life Co,2016-12-01,2026-12-01,22540000.00,0.03262,0,43200000.00,1273380.15,0.7675
+NMK-00048,Highland Commerce Center,industrial,"Washington, DC",Halcyon Street Partners,Life Co,2020-02-01,2027-02-01,7430000.00,0.02587,30,15250000.00,1346000.63,0.9133
+NMK-00049,Stonebridge Hotel,hotel,"Houston, TX",Silverline Holdings,CMBS,2019-07-01,2029-07-01,57700000.00,0.04783,0,86280000.00,8685001.07,0.6217
+NMK-00050,Stonebridge Residences,multifamily,"Boston, MA",Quarry Lane Capital,Agency,2018-10-01,2028-10-01,77330000.00,0.04275,30,109620000.00,6084989.52,0.9331
+NMK-00051,Copper Hill Town Center,retail,"Nashville, TN",Cobalt Ridge Partners,CMBS,2021-11-01,2026-11-01,55210000.00,0.03789,30,93800000.00,6656685.96,0.8797
+NMK-00052,Harbor Point Apartments,multifamily,"Washington, DC",Quarry Lane Capital,Agency,2017-10-01,2027-10-01,130080000.00,0.03763,30,183160000.00,13120906.59,0.9552
+NMK-00053,Highland Commerce Center,industrial,"Austin, TX",Cobalt Ridge Partners,Debt Fund,2025-01-01,2030-01-01,14090000.00,0.07646,0,19640000.00,1086542.26,0.9258
+NMK-00054,Larkspur Tower,office,"Nashville, TN",Cobalt Ridge Partners,CMBS,2021-11-01,2026-11-01,30270000.00,0.03398,30,43650000.00,2359647.42,0.7144
+NMK-00055,Lakeside Plaza,office,"Boston, MA",Halcyon Street Partners,Debt Fund,2025-07-01,2028-07-01,41300000.00,0.07895,0,61240000.00,3330727.96,0.6593
+NMK-00056,Harbor Point Flats,multifamily,"San Francisco, CA",Silverline Holdings,Debt Fund,2025-12-01,2028-12-01,105510000.00,0.07217,0,142150000.00,7218171.05,0.9693
+NMK-00057,Larkspur Hotel,hotel,"Miami, FL",Silverline Holdings,Bank,2021-11-01,2026-11-01,39680000.00,0.04399,25,67760000.00,6471616.19,0.8012
+NMK-00058,Harbor Point Corporate Center,office,"Seattle, WA",Brightwater Asset Mgmt,Debt Fund,2021-08-01,2026-08-01,37780000.00,0.05164,0,50210000.00,1663794.10,0.7940
+NMK-00059,Copper Hill Distribution Park,industrial,"Washington, DC",Tidewater Equities,Debt Fund,2023-10-01,2028-10-01,39260000.00,0.07207,0,55360000.00,3179263.41,0.8661
+NMK-00060,Summit Shopping Center,retail,"Denver, CO",Cobalt Ridge Partners,Life Co,2018-05-01,2028-05-01,27640000.00,0.05093,30,58460000.00,4911934.85,0.9486
+NMK-00061,Elm Street Office Park,office,"San Francisco, CA",Oakhaven Investors,Bank,2023-10-01,2028-10-01,67150000.00,0.06233,25,117790000.00,4864718.45,0.8757
+NMK-00062,Crescent Shopping Center,retail,"San Francisco, CA",Tidewater Equities,Bank,2021-01-01,2028-01-01,7610000.00,0.04023,25,12040000.00,781255.60,0.9663
+NMK-00063,Crescent Shopping Center,retail,"Charlotte, NC",Brightwater Asset Mgmt,Life Co,2016-10-01,2026-10-01,5400000.00,0.03500,30,10820000.00,946121.31,0.9159
+NMK-00064,Gateway Flats,multifamily,"Boston, MA",Quarry Lane Capital,Agency,2019-08-01,2029-08-01,121580000.00,0.03672,30,195630000.00,11491205.87,0.8808
+NMK-00065,Northgate Marketplace,retail,"Miami, FL",Pinecrest Realty,Debt Fund,2027-01-01,2030-01-01,99940000.00,0.07744,0,145070000.00,9946272.67,0.8181
+NMK-00066,Pioneer Tower,office,"Austin, TX",Kestrel Property Group,Bank,2020-11-01,2027-11-01,32190000.00,0.02713,25,58420000.00,2812882.07,0.8527
+NMK-00067,Ashgrove Apartments,multifamily,"Seattle, WA",Pinecrest Realty,Life Co,2020-06-01,2027-06-01,62580000.00,0.02500,30,114010000.00,6610393.57,0.8830
+NMK-00068,Granite Corporate Center,office,"Houston, TX",Kestrel Property Group,CMBS,2017-11-01,2027-11-01,18450000.00,0.04448,30,28610000.00,977278.75,0.8942
+NMK-00069,Bayview Resort,hotel,"Phoenix, AZ",Cobalt Ridge Partners,Debt Fund,2022-11-01,2027-11-01,17920000.00,0.07483,0,23960000.00,1821849.91,0.7698
+NMK-00070,Riverside Residences,multifamily,"Austin, TX",Northbeam Capital,Agency,2018-10-01,2028-10-01,56190000.00,0.04504,30,77680000.00,6037455.15,0.9358
+NMK-00071,Lakeside Suites,hotel,"Austin, TX",Cobalt Ridge Partners,CMBS,2024-09-01,2029-09-01,40440000.00,0.07089,0,60890000.00,4632443.44,0.6033
+NMK-00072,Summit Suites,hotel,"Los Angeles, CA",Pinecrest Realty,CMBS,2018-10-01,2028-10-01,121820000.00,0.05802,30,193270000.00,15948250.70,0.7278
+NMK-00073,Ashgrove Suites,hotel,"Chicago, IL",Tidewater Equities,CMBS,2020-02-01,2030-02-01,21970000.00,0.03530,30,35230000.00,3343468.50,0.6462
+NMK-00074,Crescent Hotel,hotel,"Atlanta, GA",Cobalt Ridge Partners,Debt Fund,2025-10-01,2028-10-01,54660000.00,0.08698,0,83730000.00,6298227.64,0.7792
+NMK-00075,Cedar Ridge Tower,office,"New York, NY",Lantern Real Estate,Bank,2020-07-01,2027-07-01,58870000.00,0.03165,25,100450000.00,9604928.97,0.6245
+NMK-00076,Foundry Town Center,retail,"Phoenix, AZ",Halcyon Street Partners,CMBS,2023-01-01,2028-01-01,47930000.00,0.06005,30,74530000.00,4735080.33,0.9009
+NMK-00077,Bayview Office Park,office,"Los Angeles, CA",Pinecrest Realty,CMBS,2024-09-01,2029-09-01,73400000.00,0.06336,30,119110000.00,7007279.66,0.8337
+NMK-00078,Westbrook Corporate Center,office,"Nashville, TN",Halcyon Street Partners,Debt Fund,2025-01-01,2028-01-01,80110000.00,0.07539,0,111070000.00,6005128.54,0.8016
+NMK-00079,Willow Creek Lofts,multifamily,"Phoenix, AZ",Lantern Real Estate,Bank,2024-12-01,2029-12-01,31600000.00,0.05958,25,48050000.00,2449327.26,0.9418
+NMK-00080,Larkspur Corporate Center,office,"Los Angeles, CA",Tidewater Equities,CMBS,2021-09-01,2026-09-01,32680000.00,0.03459,0,54870000.00,3364672.74,0.7261
+NMK-00081,Riverside Distribution Park,industrial,"Phoenix, AZ",Cobalt Ridge Partners,Life Co,2023-04-01,2030-04-01,17320000.00,0.05781,0,32270000.00,1989229.84,0.9668
+NMK-00082,Northgate Distribution Park,industrial,"Phoenix, AZ",Northbeam Capital,Life Co,2022-05-01,2029-05-01,38360000.00,0.04565,0,84430000.00,5453382.37,0.8854
+NMK-00083,Northgate Lofts,multifamily,"San Francisco, CA",Northbeam Capital,Bank,2021-08-01,2026-08-01,12020000.00,0.03445,25,19420000.00,967216.55,0.8940
+NMK-00084,Granite Marketplace,retail,"Phoenix, AZ",Tidewater Equities,CMBS,2016-09-01,2026-09-01,32590000.00,0.03966,0,51760000.00,4508941.02,0.8189
+NMK-00085,Gateway Distribution Park,industrial,"Denver, CO",Cobalt Ridge Partners,Bank,2022-03-01,2029-03-01,35690000.00,0.04627,0,64780000.00,3510333.12,0.8611
+NMK-00086,Lakeside Town Center,retail,"New York, NY",Pinecrest Realty,CMBS,2023-05-01,2028-05-01,52240000.00,0.06200,30,88750000.00,6601604.13,0.9566
+NMK-00087,Elm Street Town Center,retail,"San Francisco, CA",Tidewater Equities,Bank,2022-06-01,2029-06-01,7550000.00,0.05426,25,13660000.00,806128.31,0.9436
+NMK-00088,Granite Apartments,multifamily,"Atlanta, GA",Oakhaven Investors,Agency,2022-03-01,2029-03-01,25340000.00,0.04437,0,38990000.00,2106043.72,0.9116
+NMK-00089,Ashgrove Suites,hotel,"Nashville, TN",Brightwater Asset Mgmt,Bank,2022-01-01,2027-01-01,17280000.00,0.05662,25,30320000.00,2241662.43,0.7624
+NMK-00090,Northgate Corporate Center,office,"Chicago, IL",Oakhaven Investors,Debt Fund,2024-05-01,2029-05-01,19830000.00,0.07919,0,30100000.00,1661613.79,0.7722
+NMK-00091,Larkspur Apartments,multifamily,"Nashville, TN",Brightwater Asset Mgmt,Agency,2016-07-01,2026-07-01,124280000.00,0.03499,30,170640000.00,8520154.45,0.9387
+NMK-00092,Ashgrove Plaza,office,"Chicago, IL",Silverline Holdings,Bank,2022-02-01,2027-02-01,130890000.00,0.05070,0,193140000.00,8885359.45,0.8323
+NMK-00093,Willow Creek Hotel,hotel,"Denver, CO",Cobalt Ridge Partners,Bank,2024-08-01,2029-08-01,32950000.00,0.07018,25,50640000.00,4015385.85,0.7139
+NMK-00094,Elm Street Office Park,office,"Dallas, TX",Brightwater Asset Mgmt,CMBS,2024-12-01,2029-12-01,18240000.00,0.06100,30,29330000.00,1642834.66,0.8327
+NMK-00095,Highland Lofts,multifamily,"New York, NY",Oakhaven Investors,Agency,2019-11-01,2029-11-01,109830000.00,0.03788,30,154510000.00,8677972.14,0.9078
+NMK-00096,Larkspur Resort,hotel,"Chicago, IL",Quarry Lane Capital,CMBS,2023-12-01,2028-12-01,16400000.00,0.06636,0,24070000.00,1634315.82,0.6608
+NMK-00097,Stonebridge Shopping Center,retail,"Washington, DC",Pinecrest Realty,CMBS,2023-05-01,2028-05-01,54640000.00,0.05997,0,80700000.00,5957511.97,0.9038
+NMK-00098,Copper Hill Town Center,retail,"Nashville, TN",Kestrel Property Group,Life Co,2020-07-01,2027-07-01,20490000.00,0.02686,30,35610000.00,2733422.61,0.9323
+NMK-00099,Granite Tower,office,"Seattle, WA",Cobalt Ridge Partners,Bank,2022-02-01,2027-02-01,24930000.00,0.05281,0,39360000.00,2154144.92,0.8489
+NMK-00100,Highland Apartments,multifamily,"Miami, FL",Halcyon Street Partners,Debt Fund,2022-01-01,2027-01-01,114190000.00,0.05955,0,149270000.00,7229505.95,0.9137
+NMK-00101,Foundry Plaza,office,"Austin, TX",Pinecrest Realty,CMBS,2022-07-01,2027-07-01,85930000.00,0.04891,30,138540000.00,6712019.93,0.8046
+NMK-00102,Northgate Hotel,hotel,"Chicago, IL",Silverline Holdings,CMBS,2022-06-01,2027-06-01,42070000.00,0.05829,0,70900000.00,5625449.27,0.6808
+NMK-00103,Crescent Shopping Center,retail,"Charlotte, NC",Lantern Real Estate,Bank,2019-11-01,2026-11-01,23480000.00,0.04458,25,40380000.00,2990584.78,0.9129
+NMK-00104,Harbor Point Lofts,multifamily,"San Francisco, CA",Oakhaven Investors,Debt Fund,2023-08-01,2026-08-01,69740000.00,0.07134,0,89700000.00,4897572.40,0.9017
+NMK-00105,Foundry Commerce Center,industrial,"Houston, TX",Lantern Real Estate,CMBS,2019-07-01,2029-07-01,20440000.00,0.03680,30,31110000.00,2393093.81,0.8688
+NMK-00106,Larkspur Town Center,retail,"Boston, MA",Northbeam Capital,Bank,2022-11-01,2027-11-01,7520000.00,0.05026,25,11200000.00,616286.11,0.9281
+NMK-00107,Cedar Ridge Flats,multifamily,"Austin, TX",Oakhaven Investors,Agency,2016-07-01,2026-07-01,33840000.00,0.03164,30,51280000.00,2156778.10,0.9632
+NMK-00108,Meridian Corporate Center,office,"Seattle, WA",Kestrel Property Group,Life Co,2020-04-01,2030-04-01,98620000.00,0.02500,30,185430000.00,11417853.18,0.7538
+NMK-00109,Lakeside Logistics Center,industrial,"Miami, FL",Oakhaven Investors,CMBS,2018-09-01,2028-09-01,101970000.00,0.04668,30,155970000.00,9772446.37,0.9318
+NMK-00110,Ashgrove Town Center,retail,"Phoenix, AZ",Tidewater Equities,CMBS,2021-06-01,2026-06-01,19500000.00,0.03909,0,32760000.00,2311757.41,0.9614
+NMK-00111,Riverside Apartments,multifamily,"Houston, TX",Pinecrest Realty,Agency,2018-10-01,2028-10-01,51220000.00,0.04323,30,75390000.00,3947433.40,0.9266
+NMK-00112,Summit Hotel,hotel,"Nashville, TN",Lantern Real Estate,CMBS,2017-09-01,2027-09-01,73920000.00,0.04929,0,105620000.00,12175238.46,0.7957
+NMK-00113,Elm Street Plaza,office,"Phoenix, AZ",Halcyon Street Partners,CMBS,2020-01-01,2030-01-01,54530000.00,0.03001,30,88690000.00,4299674.69,0.6873
+NMK-00114,Westbrook Hotel,hotel,"San Francisco, CA",Kestrel Property Group,Debt Fund,2022-07-01,2027-07-01,36550000.00,0.07016,0,48440000.00,3914983.04,0.6756
+NMK-00115,Larkspur Commerce Center,industrial,"Houston, TX",Lantern Real Estate,Bank,2021-07-01,2028-07-01,117230000.00,0.03594,25,185050000.00,8596193.54,0.9206
+NMK-00116,Granite Suites,hotel,"San Francisco, CA",Kestrel Property Group,CMBS,2021-12-01,2026-12-01,114210000.00,0.04182,30,188130000.00,14665718.43,0.6271
+NMK-00117,Westbrook Suites,hotel,"Chicago, IL",Northbeam Capital,CMBS,2019-10-01,2029-10-01,60550000.00,0.04969,0,93010000.00,6854084.00,0.5995
+NMK-00118,Northgate Resort,hotel,"Seattle, WA",Pinecrest Realty,Debt Fund,2024-09-01,2027-09-01,66160000.00,0.08660,0,92570000.00,6873939.94,0.6388
+NMK-00119,Willow Creek Shopping Center,retail,"Phoenix, AZ",Tidewater Equities,Bank,2023-10-01,2028-10-01,18810000.00,0.06413,25,30820000.00,1971406.42,0.8222
+NMK-00120,Bayview Office Park,office,"Washington, DC",Lantern Real Estate,Bank,2023-01-01,2028-01-01,22020000.00,0.06080,25,39140000.00,2230824.46,0.8640
+NMK-00121,Crescent Hotel,hotel,"Phoenix, AZ",Northbeam Capital,Debt Fund,2024-04-01,2027-04-01,45640000.00,0.08499,0,66140000.00,6047238.29,0.5921
+NMK-00122,Ironwood Office Park,office,"Phoenix, AZ",Northbeam Capital,Debt Fund,2024-11-01,2029-11-01,17860000.00,0.07571,0,26760000.00,1439564.58,0.7402
+NMK-00123,Riverside Distribution Park,industrial,"Phoenix, AZ",Oakhaven Investors,CMBS,2019-05-01,2029-05-01,63250000.00,0.03644,0,103080000.00,9137766.71,0.9381
+NMK-00124,Liberty Plaza,office,"Dallas, TX",Oakhaven Investors,CMBS,2019-08-01,2029-08-01,17970000.00,0.04100,0,28990000.00,1415281.24,0.8994
+NMK-00125,Willow Creek Apartments,multifamily,"Charlotte, NC",Brightwater Asset Mgmt,Agency,2019-09-01,2029-09-01,42380000.00,0.03656,0,62930000.00,3190072.04,0.9077
+NMK-00126,Crescent Resort,hotel,"Chicago, IL",Brightwater Asset Mgmt,Debt Fund,2026-10-01,2029-10-01,74790000.00,0.08658,0,96330000.00,6803233.38,0.6953
+NMK-00127,Highland Plaza,office,"Charlotte, NC",Halcyon Street Partners,Life Co,2021-05-01,2028-05-01,52330000.00,0.03393,30,94280000.00,4851989.40,0.8525
+NMK-00128,Bayview Suites,hotel,"Houston, TX",Pinecrest Realty,Debt Fund,2027-05-01,2030-05-01,59850000.00,0.08723,0,76760000.00,5576572.99,0.7989
+NMK-00129,Northgate Plaza,office,"Austin, TX",Oakhaven Investors,Bank,2023-04-01,2030-04-01,24270000.00,0.06166,25,38990000.00,2182121.07,0.7639
+NMK-00130,Ironwood Logistics Center,industrial,"Seattle, WA",Northbeam Capital,Debt Fund,2025-04-01,2030-04-01,42400000.00,0.07473,0,55320000.00,3242217.25,0.9003
+NMK-00131,Pioneer Commerce Center,industrial,"Washington, DC",Silverline Holdings,CMBS,2018-09-01,2028-09-01,75500000.00,0.04848,0,123260000.00,7782444.86,0.8671
+NMK-00132,Larkspur Hotel,hotel,"Charlotte, NC",Quarry Lane Capital,CMBS,2022-07-01,2027-07-01,41090000.00,0.05560,0,62090000.00,4392168.94,0.8044
+NMK-00133,Lakeside Marketplace,retail,"Charlotte, NC",Lantern Real Estate,Bank,2020-05-01,2027-05-01,65650000.00,0.03093,25,116900000.00,6830034.86,0.9588
+NMK-00134,Copper Hill Apartments,multifamily,"Denver, CO",Kestrel Property Group,Life Co,2022-01-01,2029-01-01,118070000.00,0.04662,0,203040000.00,10250911.15,0.9209
+NMK-00135,Willow Creek Distribution Park,industrial,"Atlanta, GA",Lantern Real Estate,Bank,2019-12-01,2026-12-01,19620000.00,0.03864,0,30420000.00,1966474.93,0.9455
+NMK-00136,Crescent Logistics Center,industrial,"Boston, MA",Tidewater Equities,Bank,2021-08-01,2028-08-01,11470000.00,0.03152,25,20180000.00,1059688.17,0.8930
+NMK-00137,Elm Street Town Center,retail,"Los Angeles, CA",Quarry Lane Capital,Debt Fund,2024-12-01,2027-12-01,13970000.00,0.07757,0,18960000.00,1218825.27,0.9557
+NMK-00138,Foundry Residences,multifamily,"Washington, DC",Quarry Lane Capital,Bank,2022-06-01,2027-06-01,145020000.00,0.04787,25,242270000.00,11729369.85,0.9479
+NMK-00139,Willow Creek Shopping Center,retail,"Nashville, TN",Cobalt Ridge Partners,CMBS,2018-10-01,2028-10-01,7630000.00,0.04847,0,11820000.00,708414.63,0.9157
+NMK-00140,Liberty Commerce Center,industrial,"Seattle, WA",Redfern Holdings,Bank,2022-02-01,2029-02-01,30990000.00,0.05085,0,50850000.00,2837625.20,0.8630
+NMK-00141,Lakeside Lofts,multifamily,"Charlotte, NC",Lantern Real Estate,Agency,2020-06-01,2027-06-01,13450000.00,0.02500,30,17950000.00,931751.58,0.9492
+NMK-00142,Meridian Shopping Center,retail,"Dallas, TX",Quarry Lane Capital,Debt Fund,2024-11-01,2029-11-01,25920000.00,0.07825,0,33690000.00,2348224.87,0.9462
+NMK-00143,Larkspur Flats,multifamily,"Washington, DC",Silverline Holdings,Debt Fund,2025-06-01,2028-06-01,9890000.00,0.07637,0,15150000.00,705332.87,0.9215
+NMK-00144,Crescent Residences,multifamily,"San Francisco, CA",Cobalt Ridge Partners,Agency,2023-04-01,2030-04-01,62650000.00,0.05219,30,84610000.00,5037491.61,0.9335
+NMK-00145,Northgate Plaza,office,"Denver, CO",Brightwater Asset Mgmt,Life Co,2019-07-01,2026-07-01,18210000.00,0.03944,30,37730000.00,2106344.65,0.7994
+NMK-00146,Copper Hill Commerce Center,industrial,"Houston, TX",Quarry Lane Capital,CMBS,2022-12-01,2027-12-01,23550000.00,0.05091,0,38410000.00,2052714.09,0.9550
+NMK-00147,Crescent Corporate Center,office,"Dallas, TX",Pinecrest Realty,CMBS,2018-03-01,2028-03-01,36920000.00,0.05071,0,61750000.00,2191148.48,0.8944
+NMK-00148,Ironwood Logistics Center,industrial,"Atlanta, GA",Northbeam Capital,Debt Fund,2026-05-01,2029-05-01,20070000.00,0.07533,0,30390000.00,1503947.97,0.8976
+NMK-00149,Harbor Point Logistics Center,industrial,"Atlanta, GA",Redfern Holdings,Bank,2021-08-01,2026-08-01,45890000.00,0.03583,25,79360000.00,4927938.93,0.8764
+NMK-00150,Ashgrove Suites,hotel,"Seattle, WA",Kestrel Property Group,Bank,2022-08-01,2027-08-01,25380000.00,0.05838,25,43250000.00,4024034.86,0.6663
+NMK-00151,Harbor Point Suites,hotel,"Charlotte, NC",Kestrel Property Group,Bank,2023-04-01,2030-04-01,19230000.00,0.07057,25,32550000.00,3052927.12,0.6166
+NMK-00152,Pioneer Office Park,office,"Nashville, TN",Lantern Real Estate,Bank,2020-08-01,2027-08-01,32390000.00,0.03030,25,49890000.00,2969696.55,0.8398
+NMK-00153,Stonebridge Tower,office,"New York, NY",Tidewater Equities,CMBS,2019-04-01,2029-04-01,203070000.00,0.03910,0,292240000.00,9778934.94,0.6612
+NMK-00154,Foundry Commerce Center,industrial,"Austin, TX",Northbeam Capital,CMBS,2022-02-01,2027-02-01,9340000.00,0.04631,30,14220000.00,776995.93,0.8609
+NMK-00155,Riverside Plaza,office,"Washington, DC",Silverline Holdings,CMBS,2019-03-01,2029-03-01,51730000.00,0.04121,0,77930000.00,2212799.83,0.8059
+NMK-00156,Stonebridge Apartments,multifamily,"Chicago, IL",Cobalt Ridge Partners,Agency,2021-06-01,2028-06-01,55040000.00,0.02924,30,73530000.00,3982664.94,0.9165
+NMK-00157,Granite Tower,office,"Washington, DC",Silverline Holdings,Bank,2024-10-01,2029-10-01,125080000.00,0.06422,25,197340000.00,9503760.56,0.8904
+NMK-00158,Cedar Ridge Distribution Park,industrial,"New York, NY",Silverline Holdings,Bank,2022-10-01,2027-10-01,16390000.00,0.05154,25,26410000.00,1784144.48,0.9422
+NMK-00159,Pioneer Marketplace,retail,"San Francisco, CA",Halcyon Street Partners,Life Co,2021-06-01,2028-06-01,26790000.00,0.03280,30,46400000.00,2867563.46,0.9267
+NMK-00160,Harbor Point Corporate Center,office,"Nashville, TN",Pinecrest Realty,CMBS,2022-07-01,2027-07-01,166620000.00,0.04904,30,265480000.00,11710730.73,0.6884
+NMK-00161,Ashgrove Plaza,office,"Miami, FL",Oakhaven Investors,Bank,2020-04-01,2027-04-01,111590000.00,0.02751,25,173630000.00,9750049.47,0.7282
+NMK-00162,Granite Flats,multifamily,"Los Angeles, CA",Northbeam Capital,Debt Fund,2023-09-01,2028-09-01,13540000.00,0.07357,0,19180000.00,947106.41,0.8881
+NMK-00163,Granite Plaza,office,"Miami, FL",Lantern Real Estate,Bank,2021-01-01,2028-01-01,106280000.00,0.03307,25,164970000.00,4312117.13,0.6617
+NMK-00164,Crescent Flats,multifamily,"Atlanta, GA",Pinecrest Realty,Agency,2019-08-01,2026-08-01,35820000.00,0.03561,30,58580000.00,2887684.15,0.8896
+NMK-00165,Willow Creek Residences,multifamily,"Austin, TX",Oakhaven Investors,Debt Fund,2023-02-01,2028-02-01,29080000.00,0.07382,0,38470000.00,2230436.24,0.8960
+NMK-00166,Ironwood Tower,office,"Atlanta, GA",Brightwater Asset Mgmt,CMBS,2020-05-01,2030-05-01,29660000.00,0.03181,30,48340000.00,1516481.65,0.9192
+NMK-00167,Stonebridge Flats,multifamily,"Dallas, TX",Quarry Lane Capital,Life Co,2016-05-01,2026-05-01,81320000.00,0.03466,30,141500000.00,12343616.24,0.9073
+NMK-00168,Elm Street Flats,multifamily,"Chicago, IL",Oakhaven Investors,Agency,2018-08-01,2028-08-01,38130000.00,0.04144,30,57760000.00,4299974.27,0.9431
+NMK-00169,Bayview Town Center,retail,"Charlotte, NC",Cobalt Ridge Partners,Bank,2021-09-01,2026-09-01,16580000.00,0.03961,25,26150000.00,2260775.37,0.8018
+NMK-00170,Ironwood Apartments,multifamily,"Austin, TX",Cobalt Ridge Partners,Agency,2022-02-01,2029-02-01,90690000.00,0.04467,30,131760000.00,6757337.94,0.9066
+NMK-00171,Liberty Suites,hotel,"San Francisco, CA",Kestrel Property Group,CMBS,2025-05-01,2030-05-01,84270000.00,0.07009,30,131150000.00,9571463.85,0.5907
+NMK-00172,Cedar Ridge Distribution Park,industrial,"Charlotte, NC",Pinecrest Realty,CMBS,2023-03-01,2028-03-01,116460000.00,0.05906,0,191140000.00,11047679.88,0.8925
+NMK-00173,Gateway Tower,office,"Los Angeles, CA",Halcyon Street Partners,CMBS,2019-11-01,2029-11-01,138570000.00,0.04037,0,218590000.00,11861734.46,0.6761
+NMK-00174,Ironwood Corporate Center,office,"Nashville, TN",Brightwater Asset Mgmt,Bank,2020-09-01,2027-09-01,63400000.00,0.03017,25,100720000.00,5124098.97,0.6718
+NMK-00175,Westbrook Logistics Center,industrial,"Miami, FL",Tidewater Equities,Life Co,2022-09-01,2029-09-01,10980000.00,0.04603,30,23480000.00,1209621.98,0.8860
+NMK-00176,Lakeside Distribution Park,industrial,"New York, NY",Pinecrest Realty,Life Co,2022-11-01,2029-11-01,8850000.00,0.04533,30,17810000.00,997158.95,0.8791
+NMK-00177,Crescent Town Center,retail,"Chicago, IL",Kestrel Property Group,Debt Fund,2024-01-01,2029-01-01,48420000.00,0.07845,0,68420000.00,4790933.18,0.8382
+NMK-00178,Ironwood Apartments,multifamily,"Nashville, TN",Halcyon Street Partners,Life Co,2019-06-01,2029-06-01,11710000.00,0.03530,30,20680000.00,1335682.45,0.8997
+NMK-00179,Crescent Plaza,office,"Phoenix, AZ",Redfern Holdings,Life Co,2022-11-01,2029-11-01,33950000.00,0.04579,30,67600000.00,3899213.43,0.8031
+NMK-00180,Elm Street Corporate Center,office,"Seattle, WA",Brightwater Asset Mgmt,Bank,2022-05-01,2027-05-01,53060000.00,0.05283,25,84540000.00,3670489.43,0.7002
+NMK-00181,Summit Marketplace,retail,"Dallas, TX",Redfern Holdings,Debt Fund,2027-01-01,2030-01-01,20050000.00,0.07781,0,30480000.00,2042182.95,0.8548
+NMK-00182,Meridian Flats,multifamily,"Boston, MA",Redfern Holdings,Life Co,2018-06-01,2028-06-01,44420000.00,0.04085,0,87740000.00,6858288.02,0.9643
+NMK-00183,Larkspur Office Park,office,"Atlanta, GA",Tidewater Equities,Debt Fund,2025-01-01,2028-01-01,19980000.00,0.08021,0,25740000.00,1429484.61,0.8675
+NMK-00184,Lakeside Tower,office,"Los Angeles, CA",Quarry Lane Capital,CMBS,2017-11-01,2027-11-01,135710000.00,0.04328,30,201170000.00,6910148.81,0.8552
+NMK-00185,Gateway Tower,office,"Phoenix, AZ",Kestrel Property Group,CMBS,2017-02-01,2027-02-01,44560000.00,0.04274,0,63700000.00,6326262.32,0.6447
+NMK-00186,Riverside Logistics Center,industrial,"Atlanta, GA",Pinecrest Realty,Bank,2019-07-01,2026-07-01,60850000.00,0.04075,0,100450000.00,6345016.44,0.8709
+NMK-00187,Meridian Commerce Center,industrial,"Los Angeles, CA",Cobalt Ridge Partners,Bank,2023-09-01,2028-09-01,11150000.00,0.05605,25,16850000.00,932900.14,0.9039
+NMK-00188,Cedar Ridge Suites,hotel,"Phoenix, AZ",Redfern Holdings,CMBS,2025-06-01,2030-06-01,15260000.00,0.07185,0,23570000.00,1725752.63,0.6311
+NMK-00189,Willow Creek Marketplace,retail,"Washington, DC",Kestrel Property Group,Debt Fund,2024-09-01,2029-09-01,9820000.00,0.08116,0,13130000.00,807253.81,0.9096
+NMK-00190,Granite Residences,multifamily,"Miami, FL",Kestrel Property Group,Bank,2023-04-01,2030-04-01,103580000.00,0.05967,25,162960000.00,8547712.64,0.9382
+NMK-00191,Willow Creek Marketplace,retail,"Miami, FL",Brightwater Asset Mgmt,Life Co,2017-08-01,2027-08-01,25930000.00,0.04132,30,56290000.00,4148525.30,0.8715
+NMK-00192,Bayview Corporate Center,office,"Charlotte, NC",Tidewater Equities,CMBS,2023-11-01,2028-11-01,23790000.00,0.05710,0,40680000.00,2112875.13,0.8305
+NMK-00193,Ashgrove Apartments,multifamily,"Seattle, WA",Redfern Holdings,Agency,2022-09-01,2029-09-01,39860000.00,0.04366,30,63220000.00,3026807.62,0.9194
+NMK-00194,Stonebridge Resort,hotel,"Houston, TX",Cobalt Ridge Partners,CMBS,2022-08-01,2027-08-01,50930000.00,0.06055,30,86830000.00,5370471.45,0.5830
+NMK-00195,Riverside Apartments,multifamily,"Denver, CO",Tidewater Equities,Agency,2019-01-01,2029-01-01,71230000.00,0.03614,30,113960000.00,8545906.00,0.9045
+NMK-00196,Cedar Ridge Lofts,multifamily,"Los Angeles, CA",Brightwater Asset Mgmt,Bank,2024-06-01,2029-06-01,11600000.00,0.05998,25,17530000.00,945048.47,0.9407
+NMK-00197,Lakeside Flats,multifamily,"Washington, DC",Oakhaven Investors,Bank,2021-04-01,2026-04-01,10200000.00,0.03515,25,17070000.00,821903.27,0.9023
+NMK-00198,Lakeside Suites,hotel,"San Francisco, CA",Pinecrest Realty,CMBS,2016-09-01,2026-09-01,13770000.00,0.04372,0,22690000.00,1966380.61,0.7878
+NMK-00199,Foundry Marketplace,retail,"Washington, DC",Lantern Real Estate,CMBS,2016-09-01,2026-09-01,28380000.00,0.03705,0,46040000.00,2852935.49,0.8011
+NMK-00200,Riverside Plaza,office,"Washington, DC",Tidewater Equities,CMBS,2023-03-01,2028-03-01,80870000.00,0.06271,30,118600000.00,5538906.09,0.7676
+NMK-00201,Meridian Apartments,multifamily,"Dallas, TX",Quarry Lane Capital,Debt Fund,2025-03-01,2030-03-01,134370000.00,0.07256,0,187260000.00,9892916.48,0.9538
+NMK-00202,Pioneer Lofts,multifamily,"Denver, CO",Pinecrest Realty,Agency,2021-09-01,2028-09-01,26210000.00,0.02842,30,36390000.00,1566184.86,0.9045
+NMK-00203,Northgate Flats,multifamily,"Boston, MA",Cobalt Ridge Partners,Agency,2022-07-01,2029-07-01,36790000.00,0.04293,30,55660000.00,2030200.94,0.8881
+NMK-00204,Bayview Shopping Center,retail,"Chicago, IL",Quarry Lane Capital,CMBS,2025-03-01,2030-03-01,9940000.00,0.06329,30,14940000.00,1019231.03,0.8508
+NMK-00205,Crescent Marketplace,retail,"Atlanta, GA",Tidewater Equities,CMBS,2018-07-01,2028-07-01,7650000.00,0.05134,0,12920000.00,977142.37,0.8633
+NMK-00206,Summit Logistics Center,industrial,"Denver, CO",Cobalt Ridge Partners,Bank,2022-07-01,2029-07-01,114230000.00,0.05150,25,198410000.00,9759870.42,0.8660
+NMK-00207,Gateway Office Park,office,"Dallas, TX",Northbeam Capital,CMBS,2019-06-01,2029-06-01,14340000.00,0.04293,0,21660000.00,1239418.80,0.8042
+NMK-00208,Ashgrove Commerce Center,industrial,"Washington, DC",Quarry Lane Capital,Bank,2022-01-01,2029-01-01,9210000.00,0.05130,25,15360000.00,917470.60,0.9992
+NMK-00209,Westbrook Plaza,office,"New York, NY",Kestrel Property Group,CMBS,2018-05-01,2028-05-01,32890000.00,0.04888,0,50770000.00,2513589.87,0.6376
+NMK-00210,Pioneer Hotel,hotel,"Washington, DC",Brightwater Asset Mgmt,Bank,2024-07-01,2029-07-01,56490000.00,0.07384,25,96620000.00,7416281.94,0.7832
+NMK-00211,Copper Hill Shopping Center,retail,"Dallas, TX",Brightwater Asset Mgmt,Bank,2022-03-01,2027-03-01,44030000.00,0.05142,25,73800000.00,4103732.43,0.9612
+NMK-00212,Foundry Marketplace,retail,"Denver, CO",Brightwater Asset Mgmt,Life Co,2019-01-01,2029-01-01,6290000.00,0.03805,0,11640000.00,702772.47,0.8342
+NMK-00213,Ironwood Flats,multifamily,"Los Angeles, CA",Oakhaven Investors,Bank,2023-01-01,2028-01-01,128870000.00,0.05513,25,198060000.00,11568102.85,0.9072
+NMK-00214,Ironwood Residences,multifamily,"Houston, TX",Tidewater Equities,Agency,2018-09-01,2028-09-01,161190000.00,0.04490,30,228950000.00,10061727.09,0.9076
+NMK-00215,Westbrook Logistics Center,industrial,"Los Angeles, CA",Pinecrest Realty,CMBS,2025-05-01,2030-05-01,25250000.00,0.06369,0,36110000.00,2087806.29,0.8797
+NMK-00216,Willow Creek Town Center,retail,"New York, NY",Kestrel Property Group,CMBS,2023-01-01,2028-01-01,61110000.00,0.06282,30,92540000.00,6695207.26,0.8356
+NMK-00217,Bayview Logistics Center,industrial,"Austin, TX",Brightwater Asset Mgmt,Bank,2021-11-01,2026-11-01,22340000.00,0.03129,25,39080000.00,1867304.27,0.9511
+NMK-00218,Bayview Logistics Center,industrial,"San Francisco, CA",Halcyon Street Partners,CMBS,2021-08-01,2026-08-01,102800000.00,0.03177,0,174570000.00,10849151.46,0.9919
+NMK-00219,Union Suites,hotel,"Boston, MA",Quarry Lane Capital,CMBS,2019-09-01,2029-09-01,62600000.00,0.05023,0,95880000.00,7713306.73,0.6476
+NMK-00220,Westbrook Flats,multifamily,"Atlanta, GA",Cobalt Ridge Partners,Agency,2019-06-01,2029-06-01,32180000.00,0.03392,30,49950000.00,2933052.36,0.8823
+NMK-00221,Cedar Ridge Lofts,multifamily,"Miami, FL",Oakhaven Investors,Agency,2016-09-01,2026-09-01,30900000.00,0.03506,30,45890000.00,2715307.59,0.8968
+NMK-00222,Stonebridge Lofts,multifamily,"Charlotte, NC",Brightwater Asset Mgmt,Agency,2020-09-01,2027-09-01,16170000.00,0.02602,0,22950000.00,1130779.02,0.9005
+NMK-00223,Elm Street Apartments,multifamily,"Dallas, TX",Cobalt Ridge Partners,Agency,2019-03-01,2029-03-01,143370000.00,0.03879,30,209020000.00,12959770.08,0.9654
+NMK-00224,Ashgrove Plaza,office,"Boston, MA",Oakhaven Investors,Debt Fund,2024-03-01,2027-03-01,49000000.00,0.07885,0,62940000.00,3605256.60,0.8932
+NMK-00225,Highland Hotel,hotel,"Charlotte, NC",Lantern Real Estate,CMBS,2018-06-01,2028-06-01,47990000.00,0.05731,0,69540000.00,9312872.44,0.6156
+NMK-00226,Highland Distribution Park,industrial,"Miami, FL",Quarry Lane Capital,Life Co,2019-10-01,2026-10-01,14230000.00,0.03638,30,26840000.00,1796434.95,0.9280
+NMK-00227,Pioneer Distribution Park,industrial,"Boston, MA",Oakhaven Investors,CMBS,2017-10-01,2027-10-01,49390000.00,0.03886,0,84480000.00,7497701.46,0.8628
+NMK-00228,Pioneer Town Center,retail,"Denver, CO",Kestrel Property Group,CMBS,2017-10-01,2027-10-01,84560000.00,0.04715,0,139230000.00,9553372.71,0.9239
+NMK-00229,Meridian Distribution Park,industrial,"Miami, FL",Lantern Real Estate,CMBS,2023-09-01,2028-09-01,30100000.00,0.06048,30,46890000.00,2647090.84,0.9693
+NMK-00230,Ironwood Plaza,office,"Boston, MA",Oakhaven Investors,Bank,2022-03-01,2027-03-01,12960000.00,0.05325,0,23380000.00,1163305.99,0.8671
+NMK-00231,Gateway Tower,office,"Seattle, WA",Northbeam Capital,Bank,2021-12-01,2026-12-01,45180000.00,0.03445,25,66940000.00,2686322.07,0.7360
+NMK-00232,Stonebridge Apartments,multifamily,"Austin, TX",Lantern Real Estate,Agency,2020-06-01,2027-06-01,21150000.00,0.02500,0,31980000.00,1736124.88,0.9383
+NMK-00233,Northgate Commerce Center,industrial,"Miami, FL",Brightwater Asset Mgmt,CMBS,2017-08-01,2027-08-01,17900000.00,0.04228,0,26040000.00,2360016.85,0.8743
+NMK-00234,Gateway Corporate Center,office,"Seattle, WA",Silverline Holdings,Life Co,2018-05-01,2028-05-01,14220000.00,0.04479,30,23770000.00,907149.83,0.6650
+NMK-00235,Bayview Shopping Center,retail,"Chicago, IL",Brightwater Asset Mgmt,Debt Fund,2024-08-01,2029-08-01,51850000.00,0.07996,0,70520000.00,5000775.22,0.9204
+NMK-00236,Northgate Logistics Center,industrial,"Houston, TX",Kestrel Property Group,CMBS,2025-04-01,2030-04-01,31710000.00,0.06212,0,45760000.00,2515361.77,0.8737
+NMK-00237,Willow Creek Lofts,multifamily,"Boston, MA",Brightwater Asset Mgmt,Agency,2022-05-01,2029-05-01,59890000.00,0.04768,30,94560000.00,5068362.25,0.9065
+NMK-00238,Highland Marketplace,retail,"Dallas, TX",Lantern Real Estate,Bank,2024-10-01,2029-10-01,8830000.00,0.06483,25,13830000.00,962762.42,0.9687
+NMK-00239,Harbor Point Office Park,office,"Boston, MA",Silverline Holdings,Debt Fund,2025-10-01,2028-10-01,117620000.00,0.07690,0,164870000.00,9522068.19,0.8484
+NMK-00240,Harbor Point Apartments,multifamily,"Atlanta, GA",Redfern Holdings,Life Co,2021-12-01,2028-12-01,25830000.00,0.02678,30,50210000.00,2328263.09,0.9136
+NMK-00241,Granite Lofts,multifamily,"Houston, TX",Cobalt Ridge Partners,Agency,2022-03-01,2029-03-01,74900000.00,0.04211,0,118150000.00,5507323.13,0.9541
+NMK-00242,Union Residences,multifamily,"Miami, FL",Northbeam Capital,Agency,2020-04-01,2030-04-01,16380000.00,0.02500,30,21860000.00,1079404.45,0.9006
+NMK-00243,Larkspur Commerce Center,industrial,"Chicago, IL",Brightwater Asset Mgmt,CMBS,2025-05-01,2030-05-01,22150000.00,0.06154,0,33660000.00,1800566.03,0.9993
+NMK-00244,Summit Logistics Center,industrial,"New York, NY",Kestrel Property Group,Life Co,2019-05-01,2026-05-01,18610000.00,0.03714,30,34980000.00,2650051.30,0.9189
+NMK-00245,Westbrook Residences,multifamily,"Boston, MA",Halcyon Street Partners,Agency,2022-09-01,2029-09-01,43820000.00,0.04451,30,63270000.00,3169987.16,0.9676
+NMK-00246,Harbor Point Tower,office,"Los Angeles, CA",Brightwater Asset Mgmt,Bank,2022-02-01,2027-02-01,78980000.00,0.05129,25,128950000.00,9032810.95,0.8207
+NMK-00247,Riverside Residences,multifamily,"Chicago, IL",Kestrel Property Group,Agency,2022-02-01,2029-02-01,19550000.00,0.04634,30,30810000.00,1498474.26,0.9124
+NMK-00248,Willow Creek Distribution Park,industrial,"Nashville, TN",Brightwater Asset Mgmt,Bank,2021-11-01,2026-11-01,7000000.00,0.03611,25,12330000.00,749925.85,0.8976
+NMK-00249,Cedar Ridge Logistics Center,industrial,"Dallas, TX",Redfern Holdings,Bank,2023-03-01,2028-03-01,28550000.00,0.05668,25,43350000.00,2468546.20,0.9617
+NMK-00250,Ironwood Resort,hotel,"New York, NY",Quarry Lane Capital,Debt Fund,2021-10-01,2026-10-01,55330000.00,0.06047,0,78260000.00,5094675.47,0.7912
