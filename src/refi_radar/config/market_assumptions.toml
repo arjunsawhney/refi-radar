@@ -1,0 +1,62 @@
+# Market assumptions used to re-underwrite maturing loans.
+#
+# ILLUSTRATIVE ONLY. Values approximate the late-2026 lending environment
+# for demonstration and are not a Newmark house view. In production this file
+# would be replaced by a feed (rates desk / research / Trepp / RCA).
+
+as_of = 2026-10-01
+base_rate = 0.0425            # 10Y UST benchmark
+refi_amortization_years = 30
+horizon_months = 36           # only loans maturing within this window are triaged
+source_note = "Illustrative assumptions for demo purposes; replace with live rates and research cap rates."
+
+[thresholds]
+equity_gap_max_pct = 0.10     # gap <= 10% of balloon -> sponsor can likely write a check (cash-in refi)
+distressed_ltv = 1.00         # balloon >= current value -> underwater
+distressed_dscr = 1.00        # existing loan cannot cover its own debt service
+
+[fees]                        # indicative advisory fees, basis points of transaction size
+debt_placement_bps = 50
+equity_placement_bps = 100
+investment_sales_bps = 100     # owner sells the property (owner still has equity)
+loan_sales_bps = 75            # lender sells the defaulted note (property worth less than the loan)
+
+[property_types.multifamily]
+spread = 0.0160
+cap_rate = 0.0550
+opex_ratio = 0.40
+max_ltv = 0.70
+min_dscr = 1.25
+min_debt_yield = 0.080
+
+[property_types.industrial]
+spread = 0.0190
+cap_rate = 0.0575
+opex_ratio = 0.25
+max_ltv = 0.65
+min_dscr = 1.30
+min_debt_yield = 0.090
+
+[property_types.retail]
+spread = 0.0240
+cap_rate = 0.0700
+opex_ratio = 0.30
+max_ltv = 0.60
+min_dscr = 1.35
+min_debt_yield = 0.100
+
+[property_types.office]
+spread = 0.0300
+cap_rate = 0.0775
+opex_ratio = 0.45
+max_ltv = 0.60
+min_dscr = 1.35
+min_debt_yield = 0.100
+
+[property_types.hotel]
+spread = 0.0325
+cap_rate = 0.0825
+opex_ratio = 0.65
+max_ltv = 0.60
+min_dscr = 1.45
+min_debt_yield = 0.115
