@@ -86,8 +86,10 @@ any loan).
 
 ## Run it
 
+Needs **Python 3.11+** (built and tested on 3.14). Check with `python3 --version`.
+
 ```bash
-python3.14 -m venv .venv && source .venv/bin/activate
+python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 pytest                          # 99 tests
 refi-radar serve                # dashboard http://127.0.0.1:8000  ·  API docs /docs
